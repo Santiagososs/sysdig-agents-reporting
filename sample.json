@@ -1,0 +1,5 @@
+{"details":[
+{"agentStatus":"Never Connected","clusterName":"example-cluster-a","labels":{"accountId":"111111111111","hostname":"ip-10-1-0-10.ec2.internal","provider":"aws"}},
+{"agentStatus":"Never Connected","clusterName":"example-cluster-a","labels":{"accountId":"111111111111","hostname":"ip-10-1-0-11.ec2.internal","provider":"aws"}},
+{"agentStatus":"Up to Date","connected":true,"agentVersion":"14.0.0","agentLastSeen":"2026-01-01T00:00:00Z","clusterName":"example-cluster-b","deploymentType":"host, containerised","labels":{"accountId":"222222222222","agentId":"1000001","hostname":"ip-10-2-0-20.ec2.internal","provider":"aws"}}
+]}
